@@ -1,0 +1,27 @@
+30,0,Swimming,Comfortable short clothes.
+30,0,Go to the Zoo,Comfortable short clothes.
+30,0,Sun-bathing,Bathing clothes.
+30,10,Take a nap,Comfortable short clothes and an umbrella.
+30,10,Cooking,Comfortable short clothes.
+30,10,Go to the Cinema,Comfortable short clothes and an umbrella.
+
+20,0,Cykling,Sport clothes.
+20,0,To walk,Outdoor short clothes.
+20,0,Play football,Sport clothes.
+20,10,Cooking,Comfortable clothes.
+20,10,Play games,Comfortable home clothes.
+20,10,Play football,Sport clothes and an umbrella.
+
+10,0,Go to the Cinema,Comfortable home clothes.
+10,0,Watch Netflix,Comfortable home clothes.
+10,0,To walk,Warm outdoor clothes.
+10,10,Cooking,Comfortable home clothes.
+10,10,Painting,Comfortable home clothes.
+10,10,Play games,Comfortable home clothes.
+
+0,0,Go to the Cinema,Warm outdoor clothes.
+0,0,Watch Netflix,Warm home clothes.
+0,0,Play games,Comfortable home clothes.
+0,10,Go to the Cinema,Warm outdoor clothes and an umbrella.
+0,10,Watch Netflix,Warm home clothes.
+0,10,Cooking,Comfortable home clothes.

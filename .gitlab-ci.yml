@@ -1,0 +1,14 @@
+image: openkbs/jre-mvn-py3:latest
+
+build:
+  stage: build
+  script:
+    - mvn compile
+test:
+  stage: test
+  script:
+    - mvn test
+deploy:
+    stage: deploy
+    script:
+    - mvn package -Dmaven.test.skip=true && mv /builds/our-awesome-group2/program4caster/target/program4caster.jar . && ls && echo $PWD && sudo apt install -y zip unzip && python upload.py program4caster.jar chromedriver85.exe chromedriver87.exe geckodriver.exe && ls
