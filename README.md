@@ -1,6 +1,6 @@
-# Program4caster
+# WeatherForecast
 
-We would like to write a program (using Java and Selenium) in order to automate a process.
+A program (using Java and Selenium) in order to automate a process.
 
 It would include a robot that sends an email to each user in order to offer programs for today depending on the weather.
 In case of good weather these events would be outdoor, in case of bad weather they would beindoor activities.
